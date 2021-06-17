@@ -9,14 +9,6 @@ I am a energetic and passionate student looking to become a Full Stack Junior De
 | [AshTong](https://github.com/YoFirmy/ashtong)| A webapp I've been working on in order to explore and understand Rails better. | Rails |
 | [Scheduled Tweets](https://github.com/YoFirmy/scheduledtweets) | A clone of tweet scheduling webapp [Buffer](https://buffer.com/), I made using a tutorial from [GoRails](https://gorails.com/episodes/rails-for-beginners-part-1-installing-ruby-on-rails) | Rails              |
 
-## Work Experience
-
-**Oddballs** (March 2018 to June 2021)  
-_Store Manager_
-
-**Hamleys** (October 2014 to March 2018)  
-_Toy Expert_
-
 ## Skills
 
 #### Fast learner
@@ -33,6 +25,14 @@ I problem solve every day; In part because I believe it keeps my mind active and
 #### Adaptable
 
 As a manager of Oddballs, a small store in a very busy prime location in Camden, I had to be very good at adapting to the situation. A lot of the time (particularly during peak summer and christmas periods) the store would be extremely busy and there would be a huge amount of tasks that required being completed. I would have to be very good at keeping the shop well staffed (and keeping those staff well trained) in order to delegate tasks. During periods that weren't so busy however (during a lot of periods over the pandemic for example) I would have to strip things right back; I would have to furlough staff and tackle more tasks myself rather than delegating, I would have to prioritize my time efficiently so as to not loose the few customers we had but still get everything that was essential for the shop to function completed in time. I have become very good at working both as part of a team and independantly because of these experiences.
+
+## Work Experience
+
+**Oddballs** (March 2018 to June 2021)  
+_Store Manager_
+
+**Hamleys** (October 2014 to March 2018)  
+_Toy Expert_
 
 ## Education
 
