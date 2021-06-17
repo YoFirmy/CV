@@ -1,23 +1,25 @@
 ## Matt Firmston
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a energetic and passionate student looking to become a Full Stack Junior Developer. I am very versatile as I get excited about both creative and technical aspects of development. I am currently studying at [Makers Academy](https://makers.tech/), due to finish in September.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [AshTong](https://github.com/YoFirmy/ashtong)| A webapp I've been working on in order to explore and understand Rails better. | Rails |
+| [Scheduled Tweets](https://github.com/YoFirmy/scheduledtweets) | A clone of tweet scheduling webapp [Buffer](https://buffer.com/), I made using a tutorial from [GoRails](https://gorails.com/episodes/rails-for-beginners-part-1-installing-ruby-on-rails) | Rails              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Oddballs** (March 2018 to June 2021)  
+_Store Manager_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Managing staff; Creating rotas, Training, Hiring, Delegating tasks etc
+- Managing stock; Weekly ordering, Stock counts, Product testing etc
+- 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Hamleys** (October 2014 to March 2018)  
+_Toy Expert_
 
 - Any experience relevent to software development
 
